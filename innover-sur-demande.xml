@@ -3,7 +3,7 @@
 <channel> 
 <title>Innover sur demande</title> 
 <link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link> 
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://toddle.ca/innovation-sur-demande.xml" /> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/toddlyons/rss/master/innover-sur-demande.xml" /> 
 <description>Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais. Conformément au mandat d'apprentissage de l'École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d'innovation, d'apprendre et de partager 'sur demande' et selon leur convenance. Produit par Todd Lyons au nom de l'École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
 <language>fr</language> 
 <managingEditor>todd@toddlyons.ca (Todd Lyons)</managingEditor> 
