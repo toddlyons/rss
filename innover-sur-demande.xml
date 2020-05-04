@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?> 
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel> 
 <title>Innover sur demande</title> 
 <link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link> 
@@ -153,7 +152,7 @@
 <enclosure url="https://archive.org/download/isdguideduvoyageurinterfonctionpublique/ISD_Guide_du_voyageur_inter-fonction-publique.mp3" length="22204416" type="audio/mpeg" />
 <media:content url="https://archive.org/download/isdguideduvoyageurinterfonctionpublique/ISD_Guide_du_voyageur_inter-fonction-publique.mp3" fileSize="22204416" type="audio/mpeg" />
 <itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique.</itunes:subtitle>
+<itunes:subtitle>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique...</itunes:subtitle>
 <itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
 <itunes:summary>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique.</itunes:summary>
 <itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
