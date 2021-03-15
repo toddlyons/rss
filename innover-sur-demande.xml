@@ -1,261 +1,334 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel> 
-<title>Innover sur demande</title> 
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link> 
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/toddlyons/rss/master/innover-sur-demande.xml" /> 
-<description>Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais. Conformément au mandat d'apprentissage de l'École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d'innovation, d'apprendre et de partager 'sur demande' et selon leur convenance. Produit par Todd Lyons au nom de l'École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<language>fr</language> 
-<managingEditor>todd@toddlyons.ca (Todd Lyons)</managingEditor> 
-<lastBuildDate>Tue, 23 Apr 2019 09:09:09 EST</lastBuildDate> 
-<generator>Toddle https://www.toddlyons.ca</generator> 
-<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">41</openSearch:totalResults>
-<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex>
-<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage>
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /> 
-<media:copyright>CC-BY-SA 3.0</media:copyright> 
-<media:thumbnail url="https://archive.org/download/ISDEvaluationDeLimpactAxeeSurLexperienceHumaine/ISD_Cover.jpeg" /> 
-<media:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</media:keywords>
-<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Government &amp; Organizations/National</media:category> 
-<itunes:owner> 
-<itunes:email>todd@toddlyons.ca</itunes:email> 
-<itunes:name>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:name> 
-</itunes:owner> 
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author> 
-<itunes:explicit>no</itunes:explicit> 
-<itunes:image href="https://archive.org/download/ISDEvaluationDeLimpactAxeeSurLexperienceHumaine/ISD_Cover.jpeg" /> 
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-<itunes:subtitle>Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais.</itunes:subtitle> 
-<itunes:summary>Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais. Conformément au mandat d'apprentissage de l'École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d'innovation, d'apprendre et de partager 'sur demande' et selon leur convenance. Produit par Todd Lyons au nom de l'École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary> 
-<itunes:category text="Government" /> 
-<image> 
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link> 
-<url>https://archive.org/download/ISDEvaluationDeLimpactAxeeSurLexperienceHumaine/ISD_Cover.jpeg</url> 
-<title>Innovation sur demande</title> 
-</image> 
-<copyright>CC-BY-SA 3.0</copyright> 
-<media:credit role="author">Todd Lyons, Valeria Sosa, Natalie Crandall</media:credit> 
-<media:rating>nonadult</media:rating> 
-<media:description type="plain">Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais. Conformément au mandat d'apprentissage de l'École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d'innovation, d'apprendre et de partager 'sur demande' et selon leur convenance. Produit par Todd Lyons au nom de l'École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</media:description> 
-<item> 
-<title>Embauche prédictive</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx#iod</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 04 May 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-13</guid>
-<description>Comment peut-on embaucher la bonne personne pour faire le travail? Dans notre fonction publique fédérale, conformément à la méthode classique, les candidats doivent utiliser un format rigide et employer des mots‑clés particuliers afin que leurs études, leurs compétences et leur expérience concordent avec une liste préétablie de critères essentiels et de critères de mérite. Les agents libres du Canada ont adopté une autre méthode, évaluant les candidats par rapport à un ensemble de traits de comportement, avec beaucoup de succès. Selon notre invité pour cet épisode, peu importe le processus que nous tentons de mettre en œuvre, en fin de compte, c’est une question de premières impressions. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>50:57</itunes:duration>
-<enclosure url="https://archive.org/download/isdembauchepredictive/ISD_Embauche_predictive.mp3" length="36567040" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdembauchepredictive/ISD_Embauche_predictive.mp3" fileSize="36567040" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Comment peut-on embaucher la bonne personne pour faire le travail? Selon notre invité pour cet épisode, peu importe le processus que nous tentons de mettre en œuvre, en fin de compte, c’est une question de premières impressions.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Comment peut-on embaucher la bonne personne pour faire le travail? Dans notre fonction publique fédérale, conformément à la méthode classique, les candidats doivent utiliser un format rigide et employer des mots‑clés particuliers afin que leurs études, leurs compétences et leur expérience concordent avec une liste préétablie de critères essentiels et de critères de mérite. Les agents libres du Canada ont adopté une autre méthode, évaluant les candidats par rapport à un ensemble de traits de comportement, avec beaucoup de succès. Selon notre invité pour cet épisode, peu importe le processus que nous tentons de mettre en œuvre, en fin de compte, c’est une question de premières impressions. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Embauche par consensus et équipes d’appoint</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx#iod</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Tue, 07 Apr 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-12</guid>
-<description>Une équipe d’appoint se compose d’employés qui ne sont pas responsables de dossiers précis de façon permanente. Son rôle consiste plutôt à s’attaquer aux initiatives prioritaires pour les sous-ministres et autres hauts fonctionnaires du gouvernement. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>22:33</itunes:duration>
-<enclosure url="https://archive.org/download/isdembaucheparconsensusetequipesdappoint/ISD_Embauche-par-consensus-et-equipes-d-appoint.mp3" length="17891328" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdembaucheparconsensusetequipesdappoint/ISD_Embauche-par-consensus-et-equipes-d-appoint.mp3" fileSize="17891328" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Comment trouver les bonnes personnes pour travailler dans un environnement en constante évolution?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Une équipe d’appoint se compose d’employés qui ne sont pas responsables de dossiers précis de façon permanente. Son rôle consiste plutôt à s’attaquer aux initiatives prioritaires pour les sous-ministres et autres hauts fonctionnaires du gouvernement. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Travailler sans frontières</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 09 Mar 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-11</guid>
-<description>En 10 ans, la fonction publique s’est transformée, passant d’un milieu où le blogage et le gazouillage étaient considérés comme des activités compromettantes pour la carrière à un environnement qui possède maintenant des plateformes de collaboration et de réseautage professionnel avec le grand public. Pour cet épisode, notre invité a été au centre ou autour des projets qui ont orchestré cette transformation. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>36:15</itunes:duration>
-<enclosure url="https://archive.org/download/isdtravaillersansfrontieres/ISD_Travailler_sans_frontieres.mp3" length="26003456" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdtravaillersansfrontieres/ISD_Travailler_sans_frontieres.mp3" fileSize="26003456" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>En 10 ans, la fonction publique s’est transformée, passant d’un milieu où le blogage et le gazouillage étaient considérés comme des activités compromettantes pour la carrière à un environnement qui possède maintenant des plateformes de collaboration et de réseautage professionnel avec le grand public.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>En 10 ans, la fonction publique s’est transformée, passant d’un milieu où le blogage et le gazouillage étaient considérés comme des activités compromettantes pour la carrière à un environnement qui possède maintenant des plateformes de collaboration et de réseautage professionnel avec le grand public. Pour cet épisode, notre invité a été au centre ou autour des projets qui ont orchestré cette transformation. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Le leadership virtuel</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 10 Feb 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-10</guid>
-<description>Le télétravail demeure une question litigieuse dans la fonction publique. Quelques groupes l’utilisent beaucoup. D’autres le permettent uniquement dans quelques circonstances et pour des périodes limitées, exigent des preuves de nécessité pour prolonger cette disposition parce qu’après tout, comment pouvez-vous gérer des gens que vous ne voyez pas? Et comment un gestionnaire peut-il même penser à faire du télétravail? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>52:11</itunes:duration>
-<enclosure url="https://archive.org/download/isdleleadershipvirtuel/ISD_Le_leadership_virtuel.mp3" length="36063232" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdleleadershipvirtuel/ISD_Le_leadership_virtuel.mp3" fileSize="36063232" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Comment pouvez-vous gérer des gens que vous ne voyez pas? Et comment un gestionnaire peut-il même penser à faire du télétravail?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Le télétravail demeure une question litigieuse dans la fonction publique. Quelques groupes l’utilisent beaucoup. D’autres le permettent uniquement dans quelques circonstances et pour des périodes limitées, exigent des preuves de nécessité pour prolonger cette disposition parce qu’après tout, comment pouvez-vous gérer des gens que vous ne voyez pas? Et comment un gestionnaire peut-il même penser à faire du télétravail? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>L’intelligence artificielle (IA) en matière de réglementation</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 10 Jan 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-9</guid>
-<description>Comment un être humain peut-il s’y retrouver dans des milliers de mots écrits dans un vocabulaire officiel et juridique complexe? Eh bien, nous essayons de plus en plus de déléguer ce travail difficile à un assistant mieux adapté à la tâche : un logiciel. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>43:36</itunes:duration>
-<enclosure url="https://archive.org/download/isdiaenmatieredereglementation/ISD_IA_en_matiere_de_reglementation.mp3" length="30441472" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdiaenmatieredereglementation/ISD_IA_en_matiere_de_reglementation.mp3" fileSize="30441472" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Comment un être humain peut-il s’y retrouver dans des milliers de mots écrits dans un vocabulaire officiel et juridique complexe? Eh bien, nous essayons de plus en plus de déléguer ce travail difficile à un assistant mieux adapté à la tâche : un logiciel.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Comment un être humain peut-il s’y retrouver dans des milliers de mots écrits dans un vocabulaire officiel et juridique complexe? Eh bien, nous essayons de plus en plus de déléguer ce travail difficile à un assistant mieux adapté à la tâche : un logiciel. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Le Guide du voyageur inter-fonction-publique</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Thu, 05 Dec 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-8</guid>
-<description>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>29:26</itunes:duration>
-<enclosure url="https://archive.org/download/isdguideduvoyageurinterfonctionpublique/ISD_Guide_du_voyageur_inter-fonction-publique.mp3" length="22204416" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdguideduvoyageurinterfonctionpublique/ISD_Guide_du_voyageur_inter-fonction-publique.mp3" fileSize="22204416" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique...</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Hero (Heather)  Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>La loi du plus adaptable</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 08 Nov 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-7</guid>
-<description>Notre invité pour cet épisode a travaillé pour une très grande entreprise avant de se joindre à la fonction publique; il a ainsi pu constater de première main comment toute organisation peut s’enliser à mesure qu’elle gagne en ampleur et en complexité. Selon lui, le succès est lié à la volonté de s’adapter; qu’en est-il de son expérience depuis qu’il a rejoint le secteur public? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>38:14</itunes:duration>
-<enclosure url="https://archive.org/download/isdlaloiduplusadaptable/ISD_La_loi_du_plus_adaptable.mp3" length="26478592" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdlaloiduplusadaptable/ISD_La_loi_du_plus_adaptable.mp3" fileSize="26478592" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>L’un des mythes associés à la fonction publique est que, par rapport au secteur privé, le gouvernement manque d’innovation, d’efficience et d’efficacité.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Notre invité pour cet épisode a travaillé pour une très grande entreprise avant de se joindre à la fonction publique; il a ainsi pu constater de première main comment toute organisation peut s’enliser à mesure qu’elle gagne en ampleur et en complexité. Selon lui, le succès est lié à la volonté de s’adapter; qu’en est-il de son expérience depuis qu’il a rejoint le secteur public? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Initiative personnelle</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Thu, 01 Aug 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-6</guid>
-<description>Les réflexions, les réalisations et les suggestions quant à la voie à suivre pour les personnes qui ont de la difficulté à innover dans la fonction publique : ce qu’il faut rechercher chez les autres et en soi lorsque la frustration nous donne envie de tout abandonner. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>27:25</itunes:duration>
-<enclosure url="https://archive.org/download/isdinitiativepersonnelle/ISD_-_Initiative_personnelle.mp3" length="21143552" type="audio/mpeg" />
-<media:content url="https://archive.org/download/isdinitiativepersonnelle/ISD_-_Initiative_personnelle.mp3" fileSize="21143552" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Les réflexions, les réalisations et les suggestions quant à la voie à suivre pour les personnes qui ont de la difficulté à innover dans la fonction publique.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Les réflexions, les réalisations et les suggestions quant à la voie à suivre pour les personnes qui ont de la difficulté à innover dans la fonction publique : ce qu’il faut rechercher chez les autres et en soi lorsque la frustration nous donne envie de tout abandonner. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>Innovation individuelle</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Tue, 09 Jul 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-5</guid>
-<description>Il peut être décourageant, voire déprimant, d’être une personne avec une idée au sein d’une immense organisation. Après tout, qu’est-ce qu’une personne peut faire pour effectuer un changement de l’intérieur? Dans cet épisode d’Innover sur demande, Dana Landry nous demande d’examiner le pouvoir de chacun. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>35:45</itunes:duration>
-<enclosure url="https://archive.org/download/ISDInnovationIndividuelle/ISD_Innovation-individuelle.mp3" length="26214400" type="audio/mpeg" />
-<media:content url="https://archive.org/download/ISDInnovationIndividuelle/ISD_Innovation-individuelle.mp3" fileSize="26214400" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Dana Landry nous demande d’examiner le pouvoir de chacun.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Il peut être décourageant, voire déprimant, d’être une personne avec une idée au sein d’une immense organisation. Après tout, qu’est-ce qu’une personne peut faire pour effectuer un changement de l’intérieur? Dans cet épisode d’Innover sur demande, Dana Landry nous demande d’examiner le pouvoir de chacun. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item>
-<item> 
-<title>« Évaluation de l'impact axée sur l'expérience humaine »</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Wed, 12 Jun 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-4</guid>
-<description>Qu’est-ce qu’un laboratoire d’innovation? Qu’est-ce qu’une évaluation rapide de l’impact et en quoi diffère-t-elle de l’itération? En quoi reconnaître un échec nous permet-il d’accroître les liens avec les personnes et d’améliorer les résultats? Des expériences plus honnêtes sur le terrain, sur cette édition d’Innover sur demande. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>26:09</itunes:duration>
-<enclosure url="https://archive.org/download/ISDEvaluationDeLimpactAxeeSurLexperienceHumaine/ISD_Evaluation-de-limpact-axee-sur-lexperience-humaine.mp3" length="17782784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/ISDEvaluationDeLimpactAxeeSurLexperienceHumaine/ISD_Evaluation-de-limpact-axee-sur-lexperience-humaine.mp3" fileSize="17782784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Qu’est-ce qu’un laboratoire d’innovation? Qu’est-ce qu’une évaluation rapide de l’impact et en quoi diffère-t-elle de l’itération?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Qu’est-ce qu’un laboratoire d’innovation? Qu’est-ce qu’une évaluation rapide de l’impact et en quoi diffère-t-elle de l’itération? En quoi reconnaître un échec nous permet-il d’accroître les liens avec les personnes et d’améliorer les résultats? Des expériences plus honnêtes sur le terrain, sur cette édition d’Innover sur demande. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Le champ des rêves (brisés)</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-fra.aspx</link>
-<category>innovation</category>
-<category>fonction publique</category>
-<category>gouvernement</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 03 May 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">isd-episode-3</guid>
-<description>Qu’est-ce que veut dire l’innovation? Est-ce la solution magique à tous nos problèmes, comme certaines personnes nous le laissent croire? Est-ce quelque chose que nous devrions même essayer dans la fonction publique, étant donné ce qui est en jeu? Ou est‑ce la dernière saveur du mois qu’on se sent obligé d’aimer? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>28:37</itunes:duration>
-<enclosure url="https://archive.org/download/ISDLeChampDesRevesbrises/ISD_-_Le_champ_des_reves_%28brises%29.mp3" length="36214784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/ISDLeChampDesRevesbrises/ISD_-_Le_champ_des_reves_%28brises%29.mp3" fileSize="36214784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Qu’est-ce que veut dire l’innovation?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Qu’est-ce que veut dire l’innovation? Est-ce la solution magique à tous nos problèmes, comme certaines personnes nous le laissent croire? Est-ce quelque chose que nous devrions même essayer dans la fonction publique, étant donné ce qui est en jeu? Ou est‑ce la dernière saveur du mois qu’on se sent obligé d’aimer? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.</itunes:summary>
-<itunes:keywords>innovation,gouvernement,canada,fonction,publique,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-</channel> 
-</rss> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Innover sur demande]]></title>
+		<description><![CDATA[Avec Natalie Crandall et Valeria Sosa. Innover sur demande est une série de balados centrée sur le thème de l'innovation - le bon et le mauvais. Conformément au mandat d'apprentissage de l'École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d'innovation, d'apprendre et de partager 'sur demande' et selon leur convenance. Produit par Todd Lyons au nom de l'École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.]]></description>
+		<link>https://www.csps-efpc.gc.ca/podcasts/innovate-demand-fra.aspx</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg</url>
+			<title>Innover sur demande</title>
+			<link>https://www.csps-efpc.gc.ca/podcasts/innovate-demand-fra.aspx</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 15 Mar 2021 08:40:05 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/1fa64284/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></author>
+		<copyright><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></copyright>
+		<language><![CDATA[fr-ca]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Todd Lyons, Nat Crandall, Val Sosa</itunes:author>
+		<itunes:summary>Avec Natalie Crandall et Valeria Sosa. Innover sur demande est une série de balados centrée sur le thème de l&apos;innovation - le bon et le mauvais. Conformément au mandat d&apos;apprentissage de l&apos;École de la fonction publique du Canada, ce balado permettra aux fonctionnaires passionnés d&apos;innovation, d&apos;apprendre et de partager &apos;sur demande&apos; et selon leur convenance. Produit par Todd Lyons au nom de l&apos;École de la fonction publique du Canada. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Todd Lyons, Nat Crandall, Val Sosa</itunes:name>
+			<itunes:email>podcasts60+1fa64284@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Government"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+		<item>
+			<title><![CDATA[Une culture de l'expérimentation]]></title>
+			<description><![CDATA[<p>De nos jours, les organisations doivent faire de l'expérimentation une &nbsp;partie intégrante de leurs activités afin de suivre la cadence des &nbsp;leaders du marché. Cette approche étant si importante, pourquoi ne &nbsp;voit-on pas plus d'organisations l'adopter? Le fait de stimuler la &nbsp;curiosité, d'habiliter tous les employés à provoquer des changements et &nbsp;d'accepter l'échec peut sembler risqué et inefficace.</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Une-culture-de-lexprimentation-eps8cu</link>
+			<guid isPermaLink="false">db632bc3-c3ec-4fc8-9615-98e28e4d2f50</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Wed, 03 Feb 2021 07:57:49 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/26140510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-3%2Fad5b9695-9da8-c2ea-0680-c3ba42d234d4.mp3" length="19601408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;De nos jours, les organisations doivent faire de l&apos;expérimentation une &amp;nbsp;partie intégrante de leurs activités afin de suivre la cadence des &amp;nbsp;leaders du marché. Cette approche étant si importante, pourquoi ne &amp;nbsp;voit-on pas plus d&apos;organisations l&apos;adopter? Le fait de stimuler la &amp;nbsp;curiosité, d&apos;habiliter tous les employés à provoquer des changements et &amp;nbsp;d&apos;accepter l&apos;échec peut sembler risqué et inefficace.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1625</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[À la recherche des licornes]]></title>
+			<description><![CDATA[<p>Avez-vous déjà eu une idée susceptible d'insuffler un vent d'innovation &nbsp;au sein de la fonction publique et souhaité former une table ronde en &nbsp;compagnie de vos pairs afin de mettre en œuvre et de présenter votre &nbsp;idée? Dans cet épisode, Tracey Snow, gestionnaire par intérim à l'Agence &nbsp;du revenu du Canada parle de son expérience en la matière.</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/la-recherche-des-licornes-enn38j</link>
+			<guid isPermaLink="false">972c2471-5bc8-401c-9348-d6daaddbedbf</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Fri, 01 Jan 2021 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/23874259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-12%2Fdfb46ca4-d3e8-0ee1-0ae6-1f52116715e1.mp3" length="23638016" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Avez-vous déjà eu une idée susceptible d&apos;insuffler un vent d&apos;innovation &amp;nbsp;au sein de la fonction publique et souhaité former une table ronde en &amp;nbsp;compagnie de vos pairs afin de mettre en œuvre et de présenter votre &amp;nbsp;idée? Dans cet épisode, Tracey Snow, gestionnaire par intérim à l&apos;Agence &amp;nbsp;du revenu du Canada parle de son expérience en la matière.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1985</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Culture numérique, mobilité, souveraineté]]></title>
+			<description><![CDATA[<p>Dans la sphère numérique, le service public a fait beaucoup de chemin &nbsp;pour faciliter la collaboration interne et adopter les pratiques &nbsp;exemplaires des autres gouvernements et organisations. Quelles sont les &nbsp;compétences et les connaissances que nous devons absolument améliorer? &nbsp;Car, comme nous en avons discuté dans un épisode précédent, ce qui nous a &nbsp;amenés ici ne nous fera pas passer au palier supérieur.</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Culture-numrique--mobilit--souverainet-els8mk</link>
+			<guid isPermaLink="false">6d20aeda-cbad-4914-804b-c13454aaa576</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Sun, 01 Nov 2020 12:42:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/21946516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-1%2F88ded07c-f38f-1a64-52e6-5bc9ffa5a937.mp3" length="15468544" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Dans la sphère numérique, le service public a fait beaucoup de chemin &amp;nbsp;pour faciliter la collaboration interne et adopter les pratiques &amp;nbsp;exemplaires des autres gouvernements et organisations. Quelles sont les &amp;nbsp;compétences et les connaissances que nous devons absolument améliorer? &amp;nbsp;Car, comme nous en avons discuté dans un épisode précédent, ce qui nous a &amp;nbsp;amenés ici ne nous fera pas passer au palier supérieur.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1209</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[À partir de la base]]></title>
+			<description><![CDATA[<p>Dans une organisation idéale, l’innovation peut provenir de la base. Toute personne, à n’importe quel niveau de la hiérarchie, a le potentiel de façonner l’avenir,&nbsp;si son idée a du potentiel. Mais y a-t-il place à la méritocratie dans une hiérarchie? Notre invitée du jour en a été témoin à l’Académie du numérique de l’École de la fonction publique du Canada.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/partir-de-la-base-ekm5p5</link>
+			<guid isPermaLink="false">94f2430d-455b-47da-acdc-cd558c0f727b</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Tue, 06 Oct 2020 14:40:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/20698341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-6%2Fedf38c08-9c81-3df3-bfb8-abf862448d7d.mp3" length="17000448" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Dans une organisation idéale, l’innovation peut provenir de la base. Toute personne, à n’importe quel niveau de la hiérarchie, a le potentiel de façonner l’avenir,&amp;nbsp;si son idée a du potentiel. Mais y a-t-il place à la méritocratie dans une hiérarchie? Notre invitée du jour en a été témoin à l’Académie du numérique de l’École de la fonction publique du Canada.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1394</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GouvEnsemble Canada]]></title>
+			<description><![CDATA[<p>Vous avez peut-être entendu parler des déjeuners-rencontres, des cafés virtuels ou des non-conférences de GouvEnsemble Canada et vous vous êtes demandé qui était cette collectivité. Ce qu’elle fait. Ou peut-être même… pourquoi vous devriez vous en soucier.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/GouvEnsemble-Canada-ehlov6</link>
+			<guid isPermaLink="false">6d4c92c3-894e-463d-aca4-b0fb7a89a8f4</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Tue, 04 Aug 2020 13:00:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/17539494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-4%2Fb2101c8c-8c51-dd76-e70f-f274f9159d6d.mp3" length="17065984" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Vous avez peut-être entendu parler des déjeuners-rencontres, des cafés virtuels ou des non-conférences de GouvEnsemble Canada et vous vous êtes demandé qui était cette collectivité. Ce qu’elle fait. Ou peut-être même… pourquoi vous devriez vous en soucier.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1397</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[De meilleurs humains]]></title>
+			<description><![CDATA[<p>L’innovation peut être personnelle. De nouvelles idées, comme &nbsp;l’intelligence émotionnelle, peuvent évoluer et nous transformer. Que &nbsp;pouvons-nous faire pour être de meilleurs humains, individuellement et &nbsp;fondamentalement en tant qu’espèce?</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/De-meilleurs-humains-egcn7f</link>
+			<guid isPermaLink="false">c2cdedb0-6fe9-4f8a-a544-bf8a0b40c64f</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Mon, 06 Jul 2020 16:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/16194223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-6%2F88026981-44100-2-49941931d035f.mp3" length="24467456" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;L’innovation peut être personnelle. De nouvelles idées, comme &amp;nbsp;l’intelligence émotionnelle, peuvent évoluer et nous transformer. Que &amp;nbsp;pouvons-nous faire pour être de meilleurs humains, individuellement et &amp;nbsp;fondamentalement en tant qu’espèce?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2148</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Concevoir avec empathie]]></title>
+			<description><![CDATA[<p>Parfois, les leçons les plus importantes sont tirées d'expériences &nbsp;personnelles, que ces dernières soient bonnes ou mauvaises. Dans cet &nbsp;épisode d'Innover sur demande, Keith Colbourne, chef de produit à la &nbsp;Gendarmerie royale du Canada, aborde l'impact des changements dans la &nbsp;vie personnelle sur l'évolution professionnelle.</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Concevoir-avec-empathie-ef07mm</link>
+			<guid isPermaLink="false">db9eb27f-e32b-400f-a589-073227b00be5</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Thu, 04 Jun 2020 15:29:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/14736534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-4%2F79471805-44100-2-6711ec1b84007.mp3" length="18124800" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Parfois, les leçons les plus importantes sont tirées d&apos;expériences &amp;nbsp;personnelles, que ces dernières soient bonnes ou mauvaises. Dans cet &amp;nbsp;épisode d&apos;Innover sur demande, Keith Colbourne, chef de produit à la &amp;nbsp;Gendarmerie royale du Canada, aborde l&apos;impact des changements dans la &amp;nbsp;vie personnelle sur l&apos;évolution professionnelle.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1448</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Embauche prédictive]]></title>
+			<description><![CDATA[<p>Comment peut-on embaucher la bonne personne pour faire le travail? Dans &nbsp;notre fonction publique fédérale, conformément à la méthode classique, &nbsp;les candidats doivent utiliser un format rigide et employer des &nbsp;mots‑clés particuliers afin que leurs études, leurs compétences et leur &nbsp;expérience concordent avec une liste préétablie de critères essentiels &nbsp;et de critères de mérite. Les agents libres du Canada ont adopté une &nbsp;autre méthode, évaluant les candidats par rapport à un ensemble de &nbsp;traits de comportement, avec beaucoup de succès. Selon notre invité pour &nbsp;cet épisode, peu importe le processus que nous tentons de mettre en &nbsp;œuvre, en fin de compte, c’est une question de premières impressions.</p>
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Embauche-prdictive-edk9jv</link>
+			<guid isPermaLink="false">fe3a56c8-a4f4-4280-828d-ded0cfe07301</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Mon, 04 May 2020 22:29:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70215783-44100-2-fed1312099c41.mp3" length="36567040" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Comment peut-on embaucher la bonne personne pour faire le travail? Dans &amp;nbsp;notre fonction publique fédérale, conformément à la méthode classique, &amp;nbsp;les candidats doivent utiliser un format rigide et employer des &amp;nbsp;mots‑clés particuliers afin que leurs études, leurs compétences et leur &amp;nbsp;expérience concordent avec une liste préétablie de critères essentiels &amp;nbsp;et de critères de mérite. Les agents libres du Canada ont adopté une &amp;nbsp;autre méthode, évaluant les candidats par rapport à un ensemble de &amp;nbsp;traits de comportement, avec beaucoup de succès. Selon notre invité pour &amp;nbsp;cet épisode, peu importe le processus que nous tentons de mettre en &amp;nbsp;œuvre, en fin de compte, c’est une question de premières impressions.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3057</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Embauche par consensus et équipes d’appoint]]></title>
+			<description><![CDATA[Une équipe d’appoint se compose d’employés qui ne sont pas responsables de dossiers précis de façon permanente. Son rôle consiste plutôt à s’attaquer aux initiatives prioritaires pour les sous-ministres et autres hauts fonctionnaires du gouvernement. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Embauche-par-consensus-et-quipes-dappoint-edk9ch</link>
+			<guid isPermaLink="false">isd-episode-12</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Tue, 07 Apr 2020 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214305-44100-2-9fe71d43b2b442a5.mp3" length="17891328" type="audio/mpeg"/>
+			<itunes:summary>Une équipe d’appoint se compose d’employés qui ne sont pas responsables de dossiers précis de façon permanente. Son rôle consiste plutôt à s’attaquer aux initiatives prioritaires pour les sous-ministres et autres hauts fonctionnaires du gouvernement. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1353</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Travailler sans frontières]]></title>
+			<description><![CDATA[En 10 ans, la fonction publique s’est transformée, passant d’un milieu où le blogage et le gazouillage étaient considérés comme des activités compromettantes pour la carrière à un environnement qui possède maintenant des plateformes de collaboration et de réseautage professionnel avec le grand public. Pour cet épisode, notre invité a été au centre ou autour des projets qui ont orchestré cette transformation. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Travailler-sans-frontires-edk9d0</link>
+			<guid isPermaLink="false">isd-episode-11</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Mon, 09 Mar 2020 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214382-44100-2-0b7d8400b8b4cf4a.mp3" length="26003456" type="audio/mpeg"/>
+			<itunes:summary>En 10 ans, la fonction publique s’est transformée, passant d’un milieu où le blogage et le gazouillage étaient considérés comme des activités compromettantes pour la carrière à un environnement qui possède maintenant des plateformes de collaboration et de réseautage professionnel avec le grand public. Pour cet épisode, notre invité a été au centre ou autour des projets qui ont orchestré cette transformation. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2175</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Le leadership virtuel]]></title>
+			<description><![CDATA[Le télétravail demeure une question litigieuse dans la fonction publique. Quelques groupes l’utilisent beaucoup. D’autres le permettent uniquement dans quelques circonstances et pour des périodes limitées, exigent des preuves de nécessité pour prolonger cette disposition parce qu’après tout, comment pouvez-vous gérer des gens que vous ne voyez pas? Et comment un gestionnaire peut-il même penser à faire du télétravail? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Le-leadership-virtuel-edk9d9</link>
+			<guid isPermaLink="false">isd-episode-10</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Mon, 10 Feb 2020 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214461-44100-2-ca41d942f62b067a.mp3" length="36063232" type="audio/mpeg"/>
+			<itunes:summary>Le télétravail demeure une question litigieuse dans la fonction publique. Quelques groupes l’utilisent beaucoup. D’autres le permettent uniquement dans quelques circonstances et pour des périodes limitées, exigent des preuves de nécessité pour prolonger cette disposition parce qu’après tout, comment pouvez-vous gérer des gens que vous ne voyez pas? Et comment un gestionnaire peut-il même penser à faire du télétravail? Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3131</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[L’intelligence artificielle (IA) en matière de réglementation]]></title>
+			<description><![CDATA[Comment un être humain peut-il s’y retrouver dans des milliers de mots écrits dans un vocabulaire officiel et juridique complexe? Eh bien, nous essayons de plus en plus de déléguer ce travail difficile à un assistant mieux adapté à la tâche : un logiciel. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Lintelligence-artificielle-IA-en-matire-de-rglementation-edk9dk</link>
+			<guid isPermaLink="false">isd-episode-9</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Fri, 10 Jan 2020 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214477-44100-2-3a92e35a16b385e1.mp3" length="30441472" type="audio/mpeg"/>
+			<itunes:summary>Comment un être humain peut-il s’y retrouver dans des milliers de mots écrits dans un vocabulaire officiel et juridique complexe? Eh bien, nous essayons de plus en plus de déléguer ce travail difficile à un assistant mieux adapté à la tâche : un logiciel. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2616</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Le Guide du voyageur inter-fonction-publique]]></title>
+			<description><![CDATA[Hero (Heather) Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Le-Guide-du-voyageur-inter-fonction-publique-edk9cs</link>
+			<guid isPermaLink="false">isd-episode-8</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Thu, 05 Dec 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214332-44100-2-93244fb5bdfd9998.mp3" length="22204416" type="audio/mpeg"/>
+			<itunes:summary>Hero (Heather) Laird, responsable de l’Échange d’avions de papier à l’École de la fonction publique du Canada, explique comment son expérience de travail et de bénévolat à l’extérieur du gouvernement du Canada peut l’aider à innover maintenant qu’elle travaille dans la fonction publique.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1766</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[La loi du plus adaptable]]></title>
+			<description><![CDATA[Notre invité pour cet épisode a travaillé pour une très grande entreprise avant de se joindre à la fonction publique; il a ainsi pu constater de première main comment toute organisation peut s’enliser à mesure qu’elle gagne en ampleur et en complexité. Selon lui, le succès est lié à la volonté de s’adapter; qu’en est-il de son expérience depuis qu’il a rejoint le secteur public? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/La-loi-du-plus-adaptable-edk9cu</link>
+			<guid isPermaLink="false">isd-episode-7</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Fri, 08 Nov 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214413-44100-2-ab903c8da8e1ddaf.mp3" length="26478592" type="audio/mpeg"/>
+			<itunes:summary>Notre invité pour cet épisode a travaillé pour une très grande entreprise avant de se joindre à la fonction publique; il a ainsi pu constater de première main comment toute organisation peut s’enliser à mesure qu’elle gagne en ampleur et en complexité. Selon lui, le succès est lié à la volonté de s’adapter; qu’en est-il de son expérience depuis qu’il a rejoint le secteur public? Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2294</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Initiative personnelle]]></title>
+			<description><![CDATA[Les réflexions, les réalisations et les suggestions quant à la voie à suivre pour les personnes qui ont de la difficulté à innover dans la fonction publique : ce qu’il faut rechercher chez les autres et en soi lorsque la frustration nous donne envie de tout abandonner. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Initiative-personnelle-edk9c2</link>
+			<guid isPermaLink="false">isd-episode-6</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Thu, 01 Aug 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214229-44100-2-7d22c88eeb1bfd09.mp3" length="21143552" type="audio/mpeg"/>
+			<itunes:summary>Les réflexions, les réalisations et les suggestions quant à la voie à suivre pour les personnes qui ont de la difficulté à innover dans la fonction publique : ce qu’il faut rechercher chez les autres et en soi lorsque la frustration nous donne envie de tout abandonner. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1645</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Innovation individuelle]]></title>
+			<description><![CDATA[Il peut être décourageant, voire déprimant, d’être une personne avec une idée au sein d’une immense organisation. Après tout, qu’est-ce qu’une personne peut faire pour effectuer un changement de l’intérieur? Dans cet épisode d’Innover sur demande, Dana Landry nous demande d’examiner le pouvoir de chacun. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Innovation-individuelle-edk9cj</link>
+			<guid isPermaLink="false">isd-episode-5</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Tue, 09 Jul 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214328-44100-2-2ca0b67948a523c4.mp3" length="26214400" type="audio/mpeg"/>
+			<itunes:summary>Il peut être décourageant, voire déprimant, d’être une personne avec une idée au sein d’une immense organisation. Après tout, qu’est-ce qu’une personne peut faire pour effectuer un changement de l’intérieur? Dans cet épisode d’Innover sur demande, Dana Landry nous demande d’examiner le pouvoir de chacun. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2145</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[« Évaluation de l'impact axée sur l'expérience humaine »]]></title>
+			<description><![CDATA[Qu’est-ce qu’un laboratoire d’innovation? Qu’est-ce qu’une évaluation rapide de l’impact et en quoi diffère-t-elle de l’itération? En quoi reconnaître un échec nous permet-il d’accroître les liens avec les personnes et d’améliorer les résultats? Des expériences plus honnêtes sur le terrain, sur cette édition d’Innover sur demande. Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/valuation-de-limpact-axe-sur-lexprience-humaine-edk9cd</link>
+			<guid isPermaLink="false">isd-episode-4</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Wed, 12 Jun 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214301-44100-2-dd4cd206e2da4a03.mp3" length="18391040" type="audio/mpeg"/>
+			<itunes:summary>Qu’est-ce qu’un laboratoire d’innovation? Qu’est-ce qu’une évaluation rapide de l’impact et en quoi diffère-t-elle de l’itération? En quoi reconnaître un échec nous permet-il d’accroître les liens avec les personnes et d’améliorer les résultats? Des expériences plus honnêtes sur le terrain, sur cette édition d’Innover sur demande. Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1569</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Le champ des rêves (brisés)]]></title>
+			<description><![CDATA[Qu’est-ce que veut dire l’innovation? Est-ce la solution magique à tous nos problèmes, comme certaines personnes nous le laissent croire? Est-ce quelque chose que nous devrions même essayer dans la fonction publique, étant donné ce qui est en jeu? Ou est‑ce la dernière saveur du mois qu’on se sent obligé d’aimer? Une version accessible de ce balado se trouve sur le site Web de l'École de la fonction publique du Canada.
+]]></description>
+			<link>https://anchor.fm/innover-sur-demande/episodes/Le-champ-des-rves-briss-edk9dm</link>
+			<guid isPermaLink="false">isd-episode-3</guid>
+			<dc:creator><![CDATA[Todd Lyons, Nat Crandall, Val Sosa]]></dc:creator>
+			<pubDate>Fri, 03 May 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1fa64284/podcast/play/13296502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-4-4%2F70214529-44100-2-aa6ad23b06ae91f0.mp3" length="36214784" type="audio/mpeg"/>
+			<itunes:summary>Qu’est-ce que veut dire l’innovation? Est-ce la solution magique à tous nos problèmes, comme certaines personnes nous le laissent croire? Est-ce quelque chose que nous devrions même essayer dans la fonction publique, étant donné ce qui est en jeu? Ou est‑ce la dernière saveur du mois qu’on se sent obligé d’aimer? Une version accessible de ce balado se trouve sur le site Web de l&apos;École de la fonction publique du Canada.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1717</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/5209897/72a9c89b1906bf6d.jpeg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
