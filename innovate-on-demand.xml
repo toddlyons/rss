@@ -1,262 +1,369 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?> 
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
-<channel> 
-<title>Innovate On Demand</title> 
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link> 
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://toddle.ca/innovate-on-demand.xml" /> 
-<description>Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad. In line with the Canada School of Public Service’s mandate for learning, this podcast will allow public servants, passionate about innovation, to learn and share “on demand” and their convenience. Produced by Todd Lyons on behalf of the Canada School of Public Service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<language>en</language> 
-<managingEditor>todd@toddlyons.ca (Todd Lyons)</managingEditor> 
-<lastBuildDate>Tue, 23 Apr 2019 09:09:09 EST</lastBuildDate> 
-<generator>Toddle https://www.toddlyons.ca</generator> 
-<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">41</openSearch:totalResults>
-<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex>
-<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage>
-<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /> 
-<media:copyright>CC-BY-SA 3.0</media:copyright> 
-<media:thumbnail url="https://archive.org/download/IODHumanCentredImpactEvaluation/IOD_Cover.jpeg" /> 
-<media:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</media:keywords>
-<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Government &amp; Organizations/National</media:category> 
-<itunes:owner> 
-<itunes:email>todd@toddlyons.ca</itunes:email> 
-<itunes:name>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:name> 
-</itunes:owner> 
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author> 
-<itunes:explicit>no</itunes:explicit> 
-<itunes:image href="https://archive.org/download/IODHumanCentredImpactEvaluation/IOD_Cover.jpeg" /> 
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-<itunes:subtitle>Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad.</itunes:subtitle> 
-<itunes:summary>Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad. In line with the Canada School of Public Service’s mandate for learning, this podcast will allow public servants, passionate about innovation, to learn and share “on demand” and their convenience. Produced by Todd Lyons on behalf of the Canada School of Public Service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary> 
-<itunes:category text="Government" /> 
-<image> 
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link> 
-<url>https://archive.org/download/IODHumanCentredImpactEvaluation/IOD_Cover.jpeg</url> 
-<title>Innovate On Demand</title> 
-</image> 
-<copyright>CC-BY-SA 3.0</copyright> 
-<media:credit role="author">Todd Lyons, Valeria Sosa, Natalie Crandall</media:credit> 
-<media:rating>nonadult</media:rating> 
-<media:description type="plain">Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad. In line with the Canada School of Public Service’s mandate for learning, this podcast will allow public servants, passionate about innovation, to learn and share “on demand” and their convenience. Produced by Todd Lyons on behalf of the Canada School of Public Service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</media:description> 
-<item> 
-<title>Predictive Hiring</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx#iod</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 04 May 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-13</guid>
-<description>How do you hire the right person for the job? In our federal public service, the conventional method demands that applicants use a rigid format, using specific keywords to map their education, skills and experience onto a defined list of essential and merit criteria. Canada's Free Agents went another way, assessing applicants against a set of behavioural characteristics, to great success. Our guest this episode says that whatever process we try to implement, in the end, it all comes down to first impressions. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>50:18</itunes:duration>
-<enclosure url="https://archive.org/download/iodpredictivehiring/IOD_Predictive-Hiring.mp3" length="39258112" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodpredictivehiring/IOD_Predictive-Hiring.mp3" fileSize="39258112" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>How do you hire the right person for the job? Our guest this episode says that whatever process we try to implement, in the end, it all comes down to first impressions.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>How do you hire the right person for the job? In our federal public service, the conventional method demands that applicants use a rigid format, using specific keywords to map their education, skills and experience onto a defined list of essential and merit criteria. Canada's Free Agents went another way, assessing applicants against a set of behavioural characteristics, to great success. Our guest this episode says that whatever process we try to implement, in the end, it all comes down to first impressions. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Consensus Hiring and Surge Teams</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx#iod</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Tue, 07 Apr 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-12</guid>
-<description>A Surge Team is a group of employees with no ongoing files. Instead, they exist to tackle priority initiatives identified by Deputy Ministers and other senior government officials. The assignments are time sensitive, complex and innovative, and as such, depend on employees suited to this type of dynamic work. But how do you find the right people to perform in an environment of frequent change? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>19:01</itunes:duration>
-<enclosure url="https://archive.org/download/iodconsensushiringandsurgeteams/IOD_Consensus-Hiring-and-Surge-Teams.mp3" length="15155200" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodconsensushiringandsurgeteams/IOD_Consensus-Hiring-and-Surge-Teams.mp3" fileSize="15155200" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>How do you find the right people to perform in an environment of frequent change?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>A Surge Team is a group of employees with no ongoing files. Instead, they exist to tackle priority initiatives identified by Deputy Ministers and other senior government officials. The assignments are time sensitive, complex and innovative, and as such, depend on employees suited to this type of dynamic work. But how do you find the right people to perform in an environment of frequent change? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Working In The Open</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 09 Mar 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-11</guid>
-<description>In 10 years, we've transformed from a public service where individual blogging and tweeting was considered career-endangering activity, to one that now hosts public-facing professional networking and collaboration platforms. Our guest this episode was at or near the centre of the projects that orchestrated our transformation from then to now. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>30:32</itunes:duration>
-<enclosure url="https://archive.org/download/iodworkingintheopen/IOD_Working_in_the_Open.mp3" length="25709512" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodworkingintheopen/IOD_Working_in_the_Open.mp3" fileSize="25709512" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>In 10 years, we've transformed from a public service where individual blogging and tweeting was considered career-endangering activity, to one that now hosts public-facing professional networking and collaboration platforms.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>In 10 years, we've transformed from a public service where individual blogging and tweeting was considered career-endangering activity, to one that now hosts public-facing professional networking and collaboration platforms. Our guest this episode was at or near the centre of the projects that orchestrated our transformation from then to now. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Virtual Leadership</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Mon, 10 Feb 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-10</guid>
-<description>Telework remains a contentious issue in the public service. Some groups use it extensively. Others grant it only in extreme circumstances and for limited periods of time, requiring proof of need in order to prolong the arrangement, because after all, how can you manage people you can't see? And how could a manager ever possibly consider teleworking? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>47:57</itunes:duration>
-<enclosure url="https://archive.org/download/iodvirtualleadership/IOD_Virtual_Leadership.mp3" length="36571136" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodvirtualleadership/IOD_Virtual_Leadership.mp3" fileSize="36571136" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>How can you manage people you can't see? And how could a manager ever possibly consider teleworking?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Telework remains a contentious issue in the public service. Some groups use it extensively. Others grant it only in extreme circumstances and for limited periods of time, requiring proof of need in order to prolong the arrangement, because after all, how can you manage people you can't see? And how could a manager ever possibly consider teleworking? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Regulatory AI</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 10 Jan 2020 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-9</guid>
-<description>How can a human being navigate thousands of words written in complex formal and legal vocabulary? Well, increasingly, we're trying to delegate that difficult work to a helper better suited to the task: software. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>43:00</itunes:duration>
-<enclosure url="https://archive.org/download/iodregulatoryai/IOD_Regulatory_AI.mp3" length="20854784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodregulatoryai/IOD_Regulatory_AI.mp3" fileSize="20854784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>How can a human being navigate thousands of words written in complex formal and legal vocabulary? Well, increasingly, we're trying to delegate that difficult work to a helper better suited to the task: software.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>How can a human being navigate thousands of words written in complex formal and legal vocabulary? Well, increasingly, we're trying to delegate that difficult work to a helper better suited to the task: software.. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>The Hitchhiker's Guide to the Public Service</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Thu, 05 Dec 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-8</guid>
-<description>Hero (Heather)  Laird, Lead of the Paper Plane Exchange at the Canada School of Public Service, talks about how work and volunteer experience outside of the Government of Canada can contribute to meaningful innovation within the public service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>28:47</itunes:duration>
-<enclosure url="https://archive.org/download/iodhhgttps/IOD_HHGTTPS.mp3" length="20854784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodhhgttps/IOD_HHGTTPS.mp3" fileSize="20854784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Hero (Heather) Laird, Lead of the Paper Plane Exchange at the Canada School of Public Service, talks about how work and volunteer experience outside of the Government of Canada can contribute to meaningful innovation within the public service.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>The Lead of the Paper Plane Exchange at the Canada School of Public Service, talks about how work and volunteer experience outside of the Government of Canada can contribute to meaningful innovation within the public service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Survival of the Most Adaptable</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 08 Nov 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-7</guid>
-<description>Our guest this episode worked for a mega corporation before joining the public service and experienced first hand how any organization can be bogged down as it scales up in size and complexity. He believes that success is tied to a willingness to adapt, so what has his experience been like since joining the public sector? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>34:30</itunes:duration>
-<enclosure url="https://archive.org/download/iodsurvivalofthemostadaptable/IOD_Survival_of_the_Most_Adaptable.mp3" length="26998784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodsurvivalofthemostadaptable/IOD_Survival_of_the_Most_Adaptable.mp3" fileSize="26998784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>One of the myths of the public service is that governments lack innovation, efficiency and effectiveness when compared to the private sector.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Our guest this episode worked for a mega corporation before joining the public service and experienced first hand how any organization can be bogged down as it scales up in size and complexity. He believes that success is tied to a willingness to adapt, so what has his experience been like since joining the public sector? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Self-Help</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Thu, 01 Aug 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-6</guid>
-<description>Reflections, realizations, and suggestions for a path forward for those who've struggled to innovate in the public service: what to look for in other people and within yourself when the frustration makes you feel like quitting. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>26:28</itunes:duration>
-<enclosure url="https://archive.org/download/iodselfhelp/IOD_Self-Help.mp3" length="26064896" type="audio/mpeg" />
-<media:content url="https://archive.org/download/iodselfhelp/IOD_Self-Help.mp3" fileSize="26064896" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>What to look for in other people and within yourself when you feel like quitting.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>Reflections, realizations, and suggestions for a path forward for those who've struggled to innovate in the public service: what to look for in other people and within yourself when the frustration makes you feel like quitting. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Individual Innovation</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Tue, 09 Jul 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-5</guid>
-<description>It can be daunting, even depressing, to be a person with an idea inside a massive organization. After all, what can one individual to do effect change from within? On this episode of Innovate on Demand, Dana Landry asks us to consider the power of one. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>36:22</itunes:duration>
-<enclosure url="https://archive.org/download/IODIndividualInnovation/IOD_Individual_Innovation.mp3" length="23336960" type="audio/mpeg" />
-<media:content url="https://archive.org/download/IODIndividualInnovation/IOD_Individual_Innovation.mp3" fileSize="23336960" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Dana Landry asks us to consider the power of one.</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>It can be daunting, even depressing, to be a person with an idea inside a massive organization. After all, what can one individual to do effect change from within? On this episode of Innovate on Demand, Dana Landry asks us to consider the power of one. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Human-Centred Impact Evaluation</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Wed, 12 Jun 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-4</guid>
-<description>What's an Innovation Lab? What is Rapid Impact Assessment, and how is it different from Iteration? And how can acknowledging failure increase connectedness to the people affected, and bring a better outcome? More honest experiences from the field, on this edition of Innovate On Demand. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>24:27</itunes:duration>
-<enclosure url="https://archive.org/download/IODHumanCentredImpactEvaluation/IOD_Human-Centred_Impact_Evaluation.mp3" length="17782784" type="audio/mpeg" />
-<media:content url="https://archive.org/download/IODHumanCentredImpactEvaluation/IOD_Human-Centred_Impact_Evaluation.mp3" fileSize="17782784" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>What's an Innovation Lab? What is Rapid Impact Assessment, and how is it different from Iteration?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>What's an Innovation Lab? What is Rapid Impact Assessment, and how is it different from Iteration? And how can acknowledging failure increase connectedness to the people affected, and bring a better outcome? More honest experiences from the field, on this edition of Innovate On Demand. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-<item> 
-<title>Field of (Broken) Dreams</title>
-<link>https://www.csps-efpc.gc.ca/podcasts/index-eng.aspx</link>
-<category>innovation</category>
-<category>public service</category>
-<category>government</category>
-<author>todd@toddlyons.ca (Todd Lyons)</author>
-<pubDate>Fri, 03 May 2019 08:08:08 EDT</pubDate>
-<guid isPermaLink="false">iod-episode-3</guid>
-<description>What does innovation even mean? Is it the magic bullet for any problem that some people make it out to be? Is it something we should even be attempting in the public service, given what's at risk? Or is it the latest shiny thing we feel pressured to chase? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</description>
-<thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total>
-<itunes:duration>26:08</itunes:duration>
-<enclosure url="https://archive.org/download/IODFieldOfBrokenDreams/IOD_-_Field_Of_%28Broken%29_Dreams.mp3" length="20154368" type="audio/mpeg" />
-<media:content url="https://archive.org/download/IODFieldOfBrokenDreams/IOD_-_Field_Of_%28Broken%29_Dreams.mp3" fileSize="20154368" type="audio/mpeg" />
-<itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>On this episode of the program, we go back to basics. What is innovation?</itunes:subtitle>
-<itunes:author>Todd Lyons, Valeria Sosa, Natalie Crandall</itunes:author>
-<itunes:summary>What does innovation even mean? Is it the magic bullet for any problem that some people make it out to be? Is it something we should even be attempting in the public service, given what's at risk? Or is it the latest shiny thing we feel pressured to chase? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
-<itunes:keywords>innovation,innovate,government,canada,public,service,GC,GCcollab,GCconnex,GCpedia</itunes:keywords>
-</item> 
-</channel> 
-</rss> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Innovate On Demand]]></title>
+		<description><![CDATA[With hosts Natalie Crandall and Valeria Sosa, Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad. In line with the Canada School of Public Service’s mandate for learning, this podcast will allow public servants, passionate about innovation, to learn and share “on demand” and their convenience. Produced by Todd Lyons on behalf of the Canada School of Public Service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.]]></description>
+		<link>https://www.csps-efpc.gc.ca/podcasts/innovate-demand-eng.aspx</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg</url>
+			<title>Innovate On Demand</title>
+			<link>https://www.csps-efpc.gc.ca/podcasts/innovate-demand-eng.aspx</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 15 Mar 2021 08:35:47 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/11d231e0/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></author>
+		<copyright><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Todd Lyons, Val Sosa, Nat Crandall</itunes:author>
+		<itunes:summary>With hosts Natalie Crandall and Valeria Sosa, Innovate on Demand is a podcast series centralized around the theme of Innovation – the good and the bad. In line with the Canada School of Public Service’s mandate for learning, this podcast will allow public servants, passionate about innovation, to learn and share “on demand” and their convenience. Produced by Todd Lyons on behalf of the Canada School of Public Service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Todd Lyons, Val Sosa, Nat Crandall</itunes:name>
+			<itunes:email>podcasts60+11d231e0@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Government"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+		<item>
+			<title><![CDATA[Data Literacy]]></title>
+			<description><![CDATA[<p>How can we map data literacy within the public service, and how can organizations analyze their data competencies to further their data &nbsp;readiness and maturity?</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Data-Literacy-eriobt</link>
+			<guid isPermaLink="false">de33a9b2-7b0d-4e62-95e2-7ee4e9cb9c31</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Thu, 04 Mar 2021 19:19:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/27926333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-4%2F99b184e8-2030-13ff-74f4-a8886785b84d.mp3" length="18368512" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;How can we map data literacy within the public service, and how can organizations analyze their data competencies to further their data &amp;nbsp;readiness and maturity?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1473</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[A Culture of Experimentation]]></title>
+			<description><![CDATA[<p>In today's day and age, organizations must make experimentation an &nbsp;integral part of business to keep pace with market leaders. But if it's &nbsp;so vital, why aren't more organizations taking this approach? Nurturing curiosity, empowering every employee to spearhead change, and embracing failure can seem risky and inefficient.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/A-Culture-of-Experimentation-eps886</link>
+			<guid isPermaLink="false">a744d7c1-0f50-48ee-8c51-85d09b52b2fa</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Wed, 03 Feb 2021 07:54:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/26140358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-3%2F9ea0bac4-2a81-7d28-9856-b2107edd9bf9.mp3" length="17258496" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In today&apos;s day and age, organizations must make experimentation an &amp;nbsp;integral part of business to keep pace with market leaders. But if it&apos;s &amp;nbsp;so vital, why aren&apos;t more organizations taking this approach? Nurturing curiosity, empowering every employee to spearhead change, and embracing failure can seem risky and inefficient.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1355</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Unicorn Quest]]></title>
+			<description><![CDATA[<p>Have you ever had an idea that has the potential to innovate the public &nbsp;service, and wished you had a peer group to act as a sounding board in &nbsp;developing and presenting it? On this episode, Tracey Snow, Acting &nbsp;Manager with the Canada Revenue Agency, talks about her experience with &nbsp;this.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Unicorn-Quest-enn355</link>
+			<guid isPermaLink="false">828dea76-39d4-4803-a3dc-ab925ac56aed</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Fri, 01 Jan 2021 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/23874149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-12%2F33dc57ff-045c-846c-b8bf-71904f063be4.mp3" length="21256192" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Have you ever had an idea that has the potential to innovate the public &amp;nbsp;service, and wished you had a peer group to act as a sounding board in &amp;nbsp;developing and presenting it? On this episode, Tracey Snow, Acting &amp;nbsp;Manager with the Canada Revenue Agency, talks about her experience with &amp;nbsp;this.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1649</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[A Conversation with Anil Arora]]></title>
+			<description><![CDATA[<p>In this episode, we sat down with Anil Arora, Chief Statistician of &nbsp;Canada, to discuss transformation within the public service and its &nbsp;impact on the way we use and interpret data.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/A-Conversation-with-Anil-Arora-en0c7r</link>
+			<guid isPermaLink="false">1cd16770-bd04-47d1-88c9-e5de8433909a</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Wed, 02 Dec 2020 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/23129787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2F6c3c4fc3-d957-ab35-6c42-b3f2347b65fa.mp3" length="22919168" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In this episode, we sat down with Anil Arora, Chief Statistician of &amp;nbsp;Canada, to discuss transformation within the public service and its &amp;nbsp;impact on the way we use and interpret data.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1624</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Digital Literacy, Mobility, Sovereignty]]></title>
+			<description><![CDATA[<p>In the digital sphere, the public service has come a long way in facilitating internal collaboration and adopting best practices from other governments and organizations. What skills and knowledge should we strive to increase, because as we discussed on a previous episode, what got us here isn't going to get us to the next level.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Digital-Literacy--Mobility--Sovereignty-els8d7</link>
+			<guid isPermaLink="false">76bc982b-d30a-4b78-8468-28785deaefc6</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Sun, 01 Nov 2020 12:31:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/21946215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-1%2Faff580db-bcb5-8446-4c08-3731ccfde894.mp3" length="15869952" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the digital sphere, the public service has come a long way in facilitating internal collaboration and adopting best practices from other governments and organizations. What skills and knowledge should we strive to increase, because as we discussed on a previous episode, what got us here isn&apos;t going to get us to the next level.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1165</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[From the Grassroots]]></title>
+			<description><![CDATA[<p>In an ideal organization, innovation can grow from the grassroots. Any person, at any level of the hierarchy, has the potential to shape the future – if their idea has potential. But is there room for meritocracy in a hierarchy?</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/From-the-Grassroots-ekm52p</link>
+			<guid isPermaLink="false">83a3631c-86cc-42e3-b8d1-774f812c1fd3</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 06 Oct 2020 14:25:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/20697625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-6%2F46b1d27f-9130-2f32-b5e2-fe1039da2f3b.mp3" length="17719296" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In an ideal organization, innovation can grow from the grassroots. Any person, at any level of the hierarchy, has the potential to shape the future – if their idea has potential. But is there room for meritocracy in a hierarchy?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1325</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[OneTeamGov Canada]]></title>
+			<description><![CDATA[<p>You may have heard of their breakfast meetups, virtual coffees or their unconfernence, and wondered who are they? What do they do? Or perhaps even... why should you care?&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/OneTeamGov-Canada-ehlorg</link>
+			<guid isPermaLink="false">4d826e50-1139-439c-aa18-ec03d207173d</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 04 Aug 2020 12:57:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/17539376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-4%2F1c02cb65-8e8f-2ae6-8ded-d1ef559d3168.mp3" length="14313472" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;You may have heard of their breakfast meetups, virtual coffees or their unconfernence, and wondered who are they? What do they do? Or perhaps even... why should you care?&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1114</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Better Humans]]></title>
+			<description><![CDATA[<p>Innovation can be personal. New ideas, such as Emotional &nbsp;Intelligence, can evolve and transform us. What can we do to to be &nbsp;better humans, individually, and foundationally as a species?</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Better-Humans-egcn22</link>
+			<guid isPermaLink="false">4ecbc28d-fe05-484d-a7c8-c89f1b81e5a4</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Mon, 06 Jul 2020 16:04:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/16194050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-6%2F88026115-44100-2-9e05eb59e090d.mp3" length="21481472" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Innovation can be personal. New ideas, such as Emotional &amp;nbsp;Intelligence, can evolve and transform us. What can we do to to be &amp;nbsp;better humans, individually, and foundationally as a species?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2098</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Developing with Empathy]]></title>
+			<description><![CDATA[<p>Some of the most valuable lessons we learn are shaped by specific &nbsp;experiences, both good and bad. On this episode, Keith Colbourne, Product Manager at the RCMP discusses how growth gained through personal experiences can lead to professional change.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Developing-with-Empathy-ef07bm</link>
+			<guid isPermaLink="false">3ef74f0e-1418-46f7-b3e2-3c1616f27740</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Thu, 04 Jun 2020 15:20:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/14736182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-4%2F79469441-44100-2-3a62f1b4ccdac.mp3" length="18577408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Some of the most valuable lessons we learn are shaped by specific &amp;nbsp;experiences, both good and bad. On this episode, Keith Colbourne, Product Manager at the RCMP discusses how growth gained through personal experiences can lead to professional change.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1370</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Predictive Hiring]]></title>
+			<description><![CDATA[<p>How do you hire the right person for the job? In our federal public &nbsp;service, the conventional method demands that applicants use a rigid &nbsp;format, using specific keywords to map their education, skills and &nbsp;experience onto a defined list of essential and merit criteria. Canada's &nbsp;Free Agents went another way, assessing applicants against a set of &nbsp;behavioural characteristics, to great success. Our guest this episode &nbsp;says that whatever process we try to implement, in the end, it all comes &nbsp;down to first impressions.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Predictive-Hiring-edk8bl</link>
+			<guid isPermaLink="false">bf57d956-0db4-419a-90c2-ce7d428c3c2d</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Mon, 04 May 2020 21:53:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/13295413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70206497-44100-2-825d61a4cc406.mp3" length="39258112" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;How do you hire the right person for the job? In our federal public &amp;nbsp;service, the conventional method demands that applicants use a rigid &amp;nbsp;format, using specific keywords to map their education, skills and &amp;nbsp;experience onto a defined list of essential and merit criteria. Canada&apos;s &amp;nbsp;Free Agents went another way, assessing applicants against a set of &amp;nbsp;behavioural characteristics, to great success. Our guest this episode &amp;nbsp;says that whatever process we try to implement, in the end, it all comes &amp;nbsp;down to first impressions.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3018</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Consensus Hiring and Surge Teams]]></title>
+			<description><![CDATA[<p>A Surge Team is a group of employees with no ongoing files. Instead, &nbsp;they exist to tackle priority initiatives identified by Deputy Ministers &nbsp;and other senior government officials. The assignments are time &nbsp;sensitive, complex and innovative, and as such, depend on employees &nbsp;suited to this type of dynamic work. But how do you find the right &nbsp;people to perform in an environment of frequent change?</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Consensus-Hiring-and-Surge-Teams-edk86s</link>
+			<guid isPermaLink="false">e7480bf7-06a6-4c33-960a-339e069026be</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 07 Apr 2020 22:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/13295260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70205404-44100-2-f443da1186417.mp3" length="15155200" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A Surge Team is a group of employees with no ongoing files. Instead, &amp;nbsp;they exist to tackle priority initiatives identified by Deputy Ministers &amp;nbsp;and other senior government officials. The assignments are time &amp;nbsp;sensitive, complex and innovative, and as such, depend on employees &amp;nbsp;suited to this type of dynamic work. But how do you find the right &amp;nbsp;people to perform in an environment of frequent change?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1141</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Working in the Open]]></title>
+			<description><![CDATA[<p>In 10 years, we've transformed from a public service where individual &nbsp;blogging and tweeting was considered career-endangering activity, to one &nbsp;that now hosts public-facing professional networking and collaboration &nbsp;platforms. Our guest this episode was at or near the centre of the &nbsp;projects that orchestrated our transformation from then to now.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Working-in-the-Open-edk839</link>
+			<guid isPermaLink="false">56387964-44da-4a95-b5cc-69203791e441</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 10 Mar 2020 22:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/13295145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70204964-44100-2-bce5e21404471.mp3" length="25709512" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In 10 years, we&apos;ve transformed from a public service where individual &amp;nbsp;blogging and tweeting was considered career-endangering activity, to one &amp;nbsp;that now hosts public-facing professional networking and collaboration &amp;nbsp;platforms. Our guest this episode was at or near the centre of the &amp;nbsp;projects that orchestrated our transformation from then to now.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1832</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Virtual Leadership]]></title>
+			<description><![CDATA[<p>Telework remains a contentious issue in the public service. Some &nbsp;groups use it extensively. Others grant it only in extreme circumstances &nbsp;and for limited periods of time, requiring proof of need in order to &nbsp;prolong the arrangement, because after all, how can you manage people &nbsp;you can't see? And how could a manager ever possibly consider &nbsp;teleworking?</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Virtual-Leadership-edk809</link>
+			<guid isPermaLink="false">a411177d-9606-442d-8ff0-2b1ff188b70f</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 11 Feb 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/13295049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70204100-44100-2-029980c4bb146.mp3" length="36571136" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Telework remains a contentious issue in the public service. Some &amp;nbsp;groups use it extensively. Others grant it only in extreme circumstances &amp;nbsp;and for limited periods of time, requiring proof of need in order to &amp;nbsp;prolong the arrangement, because after all, how can you manage people &amp;nbsp;you can&apos;t see? And how could a manager ever possibly consider &amp;nbsp;teleworking?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2877</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Regulatory AI]]></title>
+			<description><![CDATA[<p>Whether you're a citizen or a business, wading through policy, &nbsp;regulation and legislation can be difficult. How can a human being &nbsp;navigate thousands of words written in complex formal and legal &nbsp;vocabulary? Well, increasingly, we're trying to delegate that difficult &nbsp;work to a helper better suited to the task: software. By converting &nbsp;rules into code, we can concentrate instead on asking AI to provide us &nbsp;with the details pertaining to our situation, such as eligibility, &nbsp;benefits, obligations, and restrictions.</p>
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Regulatory-AI-edk7qu</link>
+			<guid isPermaLink="false">d02bfb80-9d6e-4276-b4b5-2cb4788c6a0e</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Fri, 10 Jan 2020 23:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/13294878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-4%2F70203058-44100-2-feb549795d9cb.mp3" length="31375360" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Whether you&apos;re a citizen or a business, wading through policy, &amp;nbsp;regulation and legislation can be difficult. How can a human being &amp;nbsp;navigate thousands of words written in complex formal and legal &amp;nbsp;vocabulary? Well, increasingly, we&apos;re trying to delegate that difficult &amp;nbsp;work to a helper better suited to the task: software. By converting &amp;nbsp;rules into code, we can concentrate instead on asking AI to provide us &amp;nbsp;with the details pertaining to our situation, such as eligibility, &amp;nbsp;benefits, obligations, and restrictions.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2580</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Hitchhiker's Guide to the Public Service]]></title>
+			<description><![CDATA[The Lead of the Paper Plane Exchange at the Canada School of Public Service, talks about how work and volunteer experience outside of the Government of Canada can contribute to meaningful innovation within the public service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/The-Hitchhikers-Guide-to-the-Public-Service-e9mhq2</link>
+			<guid isPermaLink="false">iod-episode-8</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Thu, 05 Dec 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022928-44100-2-18ff3ff73871e19f.mp3" length="20854784" type="audio/mpeg"/>
+			<itunes:summary>The Lead of the Paper Plane Exchange at the Canada School of Public Service, talks about how work and volunteer experience outside of the Government of Canada can contribute to meaningful innovation within the public service. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1727</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Survival of the Most Adaptable]]></title>
+			<description><![CDATA[Our guest this episode worked for a mega corporation before joining the public service and experienced first hand how any organization can be bogged down as it scales up in size and complexity. He believes that success is tied to a willingness to adapt, so what has his experience been like since joining the public sector? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Survival-of-the-Most-Adaptable-e9mhpv</link>
+			<guid isPermaLink="false">iod-episode-7</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Fri, 08 Nov 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022925-44100-2-15fefb46546f5a23.mp3" length="26998784" type="audio/mpeg"/>
+			<itunes:summary>Our guest this episode worked for a mega corporation before joining the public service and experienced first hand how any organization can be bogged down as it scales up in size and complexity. He believes that success is tied to a willingness to adapt, so what has his experience been like since joining the public sector? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2070</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Self-Help]]></title>
+			<description><![CDATA[Reflections, realizations, and suggestions for a path forward for those who've struggled to innovate in the public service: what to look for in other people and within yourself when the frustration makes you feel like quitting. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Self-Help-e9mhq1</link>
+			<guid isPermaLink="false">iod-episode-6</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Thu, 01 Aug 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022936-44100-2-3dd2b5a3a256ddb4.mp3" length="26064896" type="audio/mpeg"/>
+			<itunes:summary>Reflections, realizations, and suggestions for a path forward for those who&apos;ve struggled to innovate in the public service: what to look for in other people and within yourself when the frustration makes you feel like quitting. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1588</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Individual Innovation]]></title>
+			<description><![CDATA[It can be daunting, even depressing, to be a person with an idea inside a massive organization. After all, what can one individual to do effect change from within? On this episode of Innovate on Demand, Dana Landry asks us to consider the power of one. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Individual-Innovation-e9mhq0</link>
+			<guid isPermaLink="false">iod-episode-5</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Tue, 09 Jul 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022932-44100-2-ffbe048cd3258744.mp3" length="23336960" type="audio/mpeg"/>
+			<itunes:summary>It can be daunting, even depressing, to be a person with an idea inside a massive organization. After all, what can one individual to do effect change from within? On this episode of Innovate on Demand, Dana Landry asks us to consider the power of one. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2182</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Human-Centred Impact Evaluation]]></title>
+			<description><![CDATA[What's an Innovation Lab? What is Rapid Impact Assessment, and how is it different from Iteration? And how can acknowledging failure increase connectedness to the people affected, and bring a better outcome? More honest experiences from the field, on this edition of Innovate On Demand. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Human-Centred-Impact-Evaluation-e9mhpu</link>
+			<guid isPermaLink="false">iod-episode-4</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Wed, 12 Jun 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022926-44100-2-6712ba4d032a99df.mp3" length="17782784" type="audio/mpeg"/>
+			<itunes:summary>What&apos;s an Innovation Lab? What is Rapid Impact Assessment, and how is it different from Iteration? And how can acknowledging failure increase connectedness to the people affected, and bring a better outcome? More honest experiences from the field, on this edition of Innovate On Demand. An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1467</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Field of (Broken) Dreams]]></title>
+			<description><![CDATA[What does innovation even mean? Is it the magic bullet for any problem that some people make it out to be? Is it something we should even be attempting in the public service, given what's at risk? Or is it the latest shiny thing we feel pressured to chase? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+]]></description>
+			<link>https://anchor.fm/innovate-on-demand/episodes/Field-of-Broken-Dreams-e9mhpt</link>
+			<guid isPermaLink="false">iod-episode-3</guid>
+			<dc:creator><![CDATA[Todd Lyons, Val Sosa, Nat Crandall]]></dc:creator>
+			<pubDate>Fri, 03 May 2019 12:08:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/11d231e0/podcast/play/9176317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-11-21%2F40022929-44100-2-13595083bb9cf9b1.mp3" length="20154368" type="audio/mpeg"/>
+			<itunes:summary>What does innovation even mean? Is it the magic bullet for any problem that some people make it out to be? Is it something we should even be attempting in the public service, given what&apos;s at risk? Or is it the latest shiny thing we feel pressured to chase? An accessible version of this podcast can be found on the Canada School of Public Service’s external facing website.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1568</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2889880/28b2acdb67bc66b3.jpeg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
